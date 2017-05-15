@@ -1,0 +1,13 @@
+.\test_openCV\outputs\*
+.\test_openCV\data\*
+.\test_openCV\x64\*
+.\elaborazione_dati_lidar\data\*
+.\elaborazione_dati_lidar\Release\*
+.\elaborazione_dati_lidar\outputs\*
+*.sdf
+*.log
+*.filters
+*.vcxproj
+*.log
+*.obj
+*.exe
